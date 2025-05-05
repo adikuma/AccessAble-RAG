@@ -1,0 +1,55 @@
+Key Insights from Focus Group Interviews for Experience LLM
+
+1. Common User Challenges in TODs
+Navigational Issues:
+Lack of clear and visible signage leads to confusion and frustration.
+Interval of the signages
+Appearance of signages are not super visible (can easily be missed)
+Users often rely on gut instincts or trial and error to navigate.
+Long, winding routes and unclear transitions between sheltered and unsheltered areas create accessibility barriers.
+
+Accessibility Barriers:
+Narrow or steep ramps and heavy doors are physically challenging for wheelchair users and caregivers.
+Obstructions like event booths, blind guide tiles, and floor clutter hinder smooth mobility along pathways.
+Inadequate space for wheelchairs in crowded areas like lifts, corridors, and MRT stations.
+The journey to the lift is longer and often out of the way hence users tend to avoid it if their mobility allows them to tough out the small flight of stairs
+
+2. Emotional Responses to Barriers
+Users expressed frustration, embarrassment, and a lack of independence when faced with barriers.
+Avoidance behaviour was noted, such as rerouting to avoid crowded or inaccessible areas.
+Caregivers experienced additional physical and mental fatigue when supporting individuals with mobility challenges.
+Individuals felt they had inconvenienced the person pushing them or accompanying them during the route.
+
+3. Prioritised User Needs
+Inclusive Design Features:
+Accessible ramps with breaks on long inclines and smoother gradients.
+Wider pathways for comfortable wheelchair movement and reduced stress in crowded spaces.
+Motion-sensored doors and flatter, obstacle-free surfaces.
+Universal Amenities:
+Visible and frequent signage indicating accessible routes.
+Sheltered walkways for all weather conditions.
+Easily reachable and well-maintained lifts.
+
+4. Behavioural Patterns
+Users often prefer shorter, harder routes if they are time-constrained but choose easier, longer routes when prioritising comfort and dignity.
+Caregivers and wheelchair users avoid routes that involve stairs or require significant physical exertion.
+Some users take note of aesthetics and functionality simultaneously, such as preferring escalators over lifts for convenience and a better visual experience.
+
+5. Suggested Improvements
+Flatten uneven terrains and eliminate unnecessary stairs.
+Create visual landmarks and guideways to assist in orientation.
+Provide better signage and maps, especially at transitions like MRT exits and mall entrances.
+Introduce universal design principles that cater to diverse groups (e.g., elderly, disabled, and parents with strollers).
+Better positioning of the lifts to be more visible and usable rather than tucked in a corner among the facilities.
+Additional flat stops along ramps to provide breaks for the wheelchair user, especially if the ramps are on the steeper end (1:12 and shorter) or too windy/long.
+Widen pathways and eliminate/minimise the obstacles that are present along the pathways (no pop-up stands in the middle, push to the sides or have a designated plaza space for them instead)
+
+6. Emotional and Cognitive Insights for Architects
+Highlight the frustration and stress associated with poor accessibility to foster empathy in design decisions.
+Showcase success stories or scenarios where inclusive design improved user experience.
+Offer suggestions for balancing functionality with aesthetic considerations in shared urban spaces.
+LLM Implementation Suggestions
+Use the insights to simulate user perspectives, offering architects real-time feedback on design elements.
+Generate narratives or visual representations of user journeys through architectural designs, highlighting potential pain points and areas of improvement.
+Include adaptive recommendations based on diverse user needs, such as optimising for wheelchair users, parents with strollers, or the visually impaired.
+*insights are taken from miroboard workshop canvas and recorded focus group transcripts

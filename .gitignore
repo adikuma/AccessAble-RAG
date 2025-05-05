@@ -1,0 +1,37 @@
+# virtual environment
+venv/
+env/
+ENV/
+
+# environment files
+.env
+.env.*
+
+# python cache files
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+
+# distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# jupyter notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# credentials file
+downloadfromdrive-392109-5113ccad3e91.json
+
+# vs code settings
+.vscode/
+
+# data storage
+*.pkl
+
+# testing
+.coverage
+htmlcov/
